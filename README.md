@@ -27,3 +27,4 @@ In the **Visual learning** mode, the user had to imitate the combination of beep
 you can retry or close the program.
 
 ## Demo
+[![VIDEO DEMO](https://img.youtube.com/vi/yEaK93kC-fA/hqdefault.jpg)](https://www.youtube.com/watch?v=yEaK93kC-fA)
